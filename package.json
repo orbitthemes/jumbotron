@@ -1,0 +1,56 @@
+{
+  "name": "jumbotron-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Jumbotron Is The Beautiful One Page Marketing Template for Bootstrap 4.",
+  "keywords": [
+    "jumbotron",
+    "jumbotron-template",
+    "jumbotron page",
+    "jumbotron page Template",
+    "Bootstrap 4 Template",
+    "Bootstrap 4",
+    "HTML",
+    "SCSS",
+    "CSS",
+    "Bootstrap",
+    "responsive",
+    "theme",
+    "template",
+    "Showcase"
+  ],
+  "homepage": "https://orbitthemes.com/downloads/jumbotron/",
+  "author": "Orbit Themes <themesorbit@gmail.com> (https://orbitthemes.com)",
+  "bugs": {
+    "url": "https://github.com/orbitthemes/jumbotron/issues",
+    "email": "themesorbit@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Sandeep Prasad Bhatt",
+      "email": "sandeep.bhatt59@gmail.com",
+      "url": "http://sandeepbhatt.com.np/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orbitthemes/jumbotron.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "4.0.1",
+    "gulp-uglify": "3.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "font-awesome": "4.7.0",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3"
+  }
+}
