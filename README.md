@@ -80,6 +80,8 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 You can hire Orbit Themes to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[Contact Page](https://orbitthemes.com/contact/)**.
 
+## Other Templates
+
 - [Album Plus](https://orbitthemes.com/downloads/album-plus) - Album Plus is a Simple Photography and Magazine template for Bootstrap 4.
 - [Blog](https://orbitthemes.com/downloads/blog) - Blog Is The Beautiful Blogger Template For Bootstrap 4.
 - [Blog Post](https://orbitthemes.com/downloads/blog-post) - Beautiful Blog Post Template for Bootstrap 4.
