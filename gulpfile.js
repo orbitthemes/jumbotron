@@ -75,7 +75,7 @@ gulp.task("css:minify", ["css:compile"], function() {
 // CSS
 gulp.task("css", ["css:compile", "css:minify"]);
 
-// Combile all JS files into a single file and rename it to main.js and minify it with suffix .min
+// Compile all JS files into a single file and rename it to main.js and minify it with suffix .min
 gulp.task("js", function() {
   return gulp
     .src(["./js/*.js", "!./js/*.min.js"])
